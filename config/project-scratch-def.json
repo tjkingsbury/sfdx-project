@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "orgName": "DreamHouse Realty",
   "edition": "Developer",
   "features": [],
@@ -17,22 +16,3 @@
     }
   }
 }
-=======
-    "orgName": "DreamHouse Realty",
-    "edition": "Developer",
-    "features": [],
-    "settings": {
-      "lightningExperienceSettings": {
-        "enableS1DesktopEnabled": true
-      },
-      "securitySettings": {
-        "passwordPolicies": {
-          "enableSetPasswordInApi": true
-        }
-      },
-      "mobileSettings": {
-        "enableS1EncryptedStoragePref2": false
-      }
-    }
-  }
->>>>>>> 89eb5c341aaa11dbe9566a4fddd4856e15fe319e
